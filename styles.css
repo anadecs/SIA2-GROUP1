@@ -82,3 +82,15 @@ section {
     height: 400px; /* Make it the same size as the hero image or adjust accordingly */
     object-fit: cover;
 }
+
+/* General paragraph styling */
+p {
+    font-size: 1.2rem;  /* This keeps the general paragraph text at a standard size */
+}
+
+/* Styling the names to make them smaller */
+.name {
+    font-size: 0.8rem;  /* Make the names smaller */
+    font-weight: normal;  /* Optionally, you can remove any bolding */
+}
+
